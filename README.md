@@ -8,5 +8,5 @@ Others: Microsoft Office, photoshop,
 Professional Skills: Team-work oriented, Salesforce, Machinery repair, Mechanical assembly, Equipment Maintenance, Work Estimation, Diagnostic Repair, Maintenance scheduling, Inventory Management, Analytical, Innovative, Motivated, Decision-making, Responsible, negotiating, Time Management, Leadership
 
 Engineer-AliAsghar/Engineer-AliAsghar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes
 --->
